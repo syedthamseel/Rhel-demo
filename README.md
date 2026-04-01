@@ -8,3 +8,7 @@ codes that i have learn't
 >git config --global user.email ""                                                       <br>
 >git congif --list                                                                       <br>
 > git init                                                                               <br>
+> git remote add origin link                                                             <br>
+> git remote -v                                                                          <br>
+> git branch                                                                             <br>
+> git branch -m                                                                          <br>

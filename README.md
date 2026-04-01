@@ -12,3 +12,4 @@ codes that i have learn't
 > git remote -v                                                                          <br>
 > git branch                                                                             <br>
 > git branch -m                                                                          <br>
+> git push -u origin main                                                                <br>
